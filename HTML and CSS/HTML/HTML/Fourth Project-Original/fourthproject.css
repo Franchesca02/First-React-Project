@@ -1,0 +1,472 @@
+body {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+.banner {
+    width: 100%;
+    padding: 30px 0;
+    background-image: url("./Fourth\ Images/panelists.jpeg");
+background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.icons {
+    display: flex;
+    float: right;
+    justify-content: space-evenly;
+    padding-right: 200px;
+}
+i{
+    padding-left: 10px;
+    color: white;
+}
+.logo {
+    width: 90%;
+    padding-top: 30px;
+    /* height: 300px; */
+    /* padding-left: 30px; */
+}
+.logo img{
+    width: 10%;
+    padding: 50px 0;
+    padding-left: 100px;
+}
+.nav, li{
+    /* width: 60%; */
+    display: flex;
+    list-style: none;
+    margin-right: 10px;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    font-size: small;
+    float: right;
+}
+.contact {
+    width: 90%;
+ padding-top: 100px;
+    /* height: 60px; */
+    background-color: rgb(53, 5, 5);
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+h2 {
+    font-size: 20px;
+    /* width: 15%; */
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 40px;
+    margin: 10px 0;
+
+}
+.contact p{
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30px;
+    /* width: 100%; */
+}
+.click {
+    width: 20%;
+    height: 60px;
+    /* padding-right: 20px; */
+    background-color: white;
+    color: rgb(61, 2, 2);
+    font-weight: bold;
+    font-size: 15px;
+}
+.welcome {
+    width: 100%;
+    padding: 150px 0;
+    /* margin: 0 auto; */
+    /* margin-top: 150px; */
+    text-align: center;
+    font-weight: lighter;
+    /* margin-bottom: 100px; */
+    background-color: rgb(248, 247, 247);
+}
+.welcome p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+h3 {
+    font-size: 25px;
+    color: rgb(121, 7, 7);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.inspiration {
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    /* padding-left: 1px; */
+    /* padding-bottom: 5px; */
+    justify-content: space-evenly;
+   
+}
+h1 {
+   /* font-size: 50px; */
+   /* color: white; */
+   /* font-weight: bolder; */
+   /* margin-left: 50px; */
+   /* text-align: left; */
+   /* margin-top: 200px; */
+}
+.inform {
+    /* padding-top: 120px; */
+    /* padding-bottom: 300px; */
+    /* padding-right: 390px; */
+    /* background-image: url("./Fourth Images/INFORM IMG.PNG"); */
+    /* background-repeat: no-repeat; */
+    /* background-size: 620px; */
+    /* margin-left: 50px; */
+}
+.incite {
+    /* width: 31%; */
+    /* padding-bottom: 200px; */
+    /* padding-top: 200px; */
+    /* background-image: url("./Fourth Images/INCITE IMG.PNG"); */
+    /* padding-right: 390px; */
+    /* background-repeat: no-repeat; */
+    /* background-size: 700px; */
+    /* margin-right: 200px; */
+}
+.engage {
+    /* width: 31%; */
+    /* padding-right: 390px; */
+    /* background-repeat: no-repeat; */
+    /* background-size: 800px; */
+    /* background-image: url("./Fourth Images/ENGAGE IMG.PNG"); */
+}
+.activities {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    background-color: white;
+    flex-wrap: wrap;
+    /* padding-left: 2px; */
+    justify-content: space-evenly;
+}
+h4 {
+    font-size: x-large;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.activities p{
+    font-size: 18px;
+    font-weight: lighter;
+}
+.achievements {
+    width: 100%;
+    /* height: 600px; */
+    /* padding: 50px 0; */
+    display: flex;
+    /* margin-top: 30px; */
+}
+.works {
+    width: 48%;
+    /* margin-top: 50px; */
+    /* height: 100%; */
+    background-color: rgb(75, 3, 3);
+}
+h5 {
+    /* text-align: center; */
+    font-size: x-large;
+    padding-left: 140px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-bottom: 20px;
+    margin-top: 100px;
+}
+.works p{
+    font-size: large;
+    color: white;
+    /* width: 55%; */
+    /* padding-left: 30px; */
+    /* text-align: center; */
+}
+.all {
+    /* width: 15%; */
+    height: 45px;
+    border-radius: 20px;
+    font-size: small;
+    color: white;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-bottom: 350px;
+    margin-left: 140px;
+    background-color:  rgb(99, 8, 8);
+    border-style: none;
+}
+.rewards {
+    width: 50%;
+    /* height: 200px; */
+    margin-top: 50px;
+    display: flex;
+    /* justify-items: normal; */
+    /* justify-items: flex-end; */
+}
+.rewards p{
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+}
+.kanu {
+    /* width: 50%; */
+    /* background-color: brown; */
+    /* height: 350px; */
+    background-image: url("Fourth Images/Kanu and co.jpeg");
+    background-repeat: no-repeat;
+    margin-right: 15px;
+}
+.huggies {
+    /* width: 50%; */
+    /* background-color: chartreuse; */
+    /* height: 350px; */
+    background-image: url("Fourth Images/Huggies team.jpeg");
+    background-repeat: no-repeat;
+    /* text-align: center; */
+}
+
+.facts {
+    width: 100%;
+    /* height: 400px; */
+    background-color: rgb(56, 2, 2);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    /* display: flex; */
+    color: white;
+    text-align: center;
+}
+.internaldiv {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    /* padding-left: 130px; */
+    /* margin-top: 50px; */
+}
+h6 {
+    font-size: 60px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text {
+    text-align: center;
+    font-size: 23px;
+    /* width: 100%; */
+    padding-top: 25px;
+}
+.combinedexperience, .success, .communication, .satisfaction {
+    /* width: 24%; */
+}
+.internaldiv p{
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    /* justify-content: space-between; */
+}
+.footprints {
+    width: 97%;
+    /* height: 400px; */
+    margin: 0 auto;  
+}
+.images {
+    display: flex;
+    margin-top: 30px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.guiness, .sensodyne, .heifer, .hifl{
+    /* width: 23%; */
+}
+.footprints p{
+    text-align: center;
+    /* width: 100%; */
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.more {
+    width: 12%;
+    height: 55px;
+    border-radius: 25px;
+    font-size: small;
+    color: white;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    margin-left: 500px;
+    background-color:  rgb(114, 7, 7);
+    border-style: none;
+}
+.ourminds {
+    width: 90%;
+    /* height: 450px; */
+    margin: 0 auto;
+}
+.ourminds p{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+.photos {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.photos p{
+    font-size: 20px;
+    text-align: left;
+    justify-content: space-evenly;
+    font-weight: lighter;
+    color: rgb(88, 88, 88);
+}
+.explore {
+    width: 30%;
+    border-style: none;
+    height: 30px;
+    font-size: small;
+    margin-top: 150px;
+    background-color: rgb(82, 4, 4);
+    color: white;
+}
+.mentalhealth {
+    background-image: url("./Fourth Images/Mental health convo.jpeg");
+    background-repeat: no-repeat;
+    margin-right: 30px;
+    /* padding-left: 20px; */
+}
+.lacasera {
+    background-image: url("./Fourth Images/Lacasera.png");
+    background-repeat: no-repeat;
+    /* width: 30%; */
+    margin-right: 30px;
+    padding-right: 20px;
+}
+.lunch {
+    background-image: url("./Fourth Images/Lunch time.jpeg");
+    background-repeat: no-repeat;
+    /* width: 30%; */
+    /* padding-left: 20px; */
+}
+.finaldiv {
+    width: 100%;
+    /* height: 400px; */
+    background-color: rgb(59, 6, 6);
+}
+.brook {
+    width: 100%;
+   height: 200px;
+   
+}
+.brook img{
+    width: 10%;
+    padding-left: 600px;
+}
+.brook p{
+    font-size: 15px;
+   text-align: center;
+    color: white;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-weight: bold; */
+}
+.mediahandles {
+
+}
+.mediahandles p{
+    text-align: center;
+    font-size: 12px;
+    color: white;
+}
+.blake {
+    /* padding-left: 250px; */
+    /* width: 30%; */
+    justify-content: space-between;
+    text-align: center;
+
+}
+footer {
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+@media screen and (max-width: 750px){
+    
+    .banner{
+        width: 100%;
+    }
+    .nav{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .icons, i{
+        flex-wrap: wrap;
+        align-content: flex-end;
+    }
+    .contact, .contact p{
+        width: 90%;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    h2, .click{
+        width: 27%;
+        text-align: center;
+    }
+    body {
+        overflow-x: hidden;
+    }
+    .welcome {
+        width: 100%;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .inspiration{
+        flex-wrap: wrap;
+        width: 90%;
+    }
+    .activities {
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .achievements, .rewards {
+        text-align: center;
+        flex-wrap: wrap;
+        /* width: 100%; */
+    }
+    .footprints{
+        width: 75%;
+    }
+    .images{
+        flex-wrap: wrap;
+    }
+    .photos{
+        flex-wrap: wrap;
+        /* width: 75%; */
+    }
+    .more{
+        margin-left: 100px;
+    }
+    .finaldiv, .blake {
+        flex-wrap: wrap;
+    }
+    .all{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 500px){
+    .internaldiv{
+        flex-wrap: wrap;
+        text-align: center;
+        font-size: 10px;
+    }
+}

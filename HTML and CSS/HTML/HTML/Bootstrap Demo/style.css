@@ -1,0 +1,31 @@
+body{
+    margin: 10px 0;
+}
+
+.navbar-expand-lg {
+    flex-wrap: wrap !important;
+    justify-content: space-between !important;
+}
+.navbar li a {
+    color: black !important;
+}
+img {
+    height: 250px;
+}
+.text {
+    width: 50%;
+}
+.third-div {
+    position: absolute;
+    /* width: 100%; */
+    right: 0;
+    /* padding-left: 40px; */
+    transform: rotate(90deg);
+    width: 200px;
+    background-color: black;
+    color: grey;
+}
+.bottom-div {
+    display: flex;
+}
+

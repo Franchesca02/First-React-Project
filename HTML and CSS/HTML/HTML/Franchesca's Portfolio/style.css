@@ -1,0 +1,73 @@
+body {
+    margin: 0 auto;
+    /* background-color: rgb(35, 4, 65); */
+}
+.header-image {
+    width: 100%;
+}
+.header-image img {
+    width: 100%;
+}
+.about-me {
+    width: 100%;
+    color: teal;
+    text-align: center;
+}
+.container-div {
+    display: flex;
+    width: 100%;
+    
+}
+.my-picture {
+    width: 60%;
+    margin-left: 30px;
+    /* background-color: burlywood; */
+}
+.my-picture img {
+    width: 40%;
+    border-radius: 200px;
+}
+.skills {
+    width: 40%;
+    margin-right: 30px;
+    /* background-color: yellowgreen; */
+}
+.html, .css, .java{
+    background-color: rgb(53, 14, 29);
+    width: 70%;
+    color: rgb(212, 207, 206);
+    border-radius: 70px;
+    margin-top: 30px;
+}
+.portfolio {
+    width: 100%;
+    text-align: center;
+}
+.project {
+    display: flex;
+    justify-content: space-evenly;
+}
+.brooks {
+    width: 30%;
+    /* background-color: blueviolet; */
+    background-image: url("./Portfolio img/Ladywithmic.jpeg");
+    background-repeat: no-repeat;
+    height: 300px;
+}
+button {
+    margin-top: 170px;
+    border-radius: 20px;
+    background-color: rgb(53, 14, 29);;
+    color: rgb(212, 207, 206);
+    font-size: 12px;
+}
+.creative-UI {
+    width: 30%;
+    background-image: url("./Portfolio img/Two guys.jpeg");
+    background-repeat: no-repeat;
+}
+.spinning {
+    width: 30%;
+    background-image: url("./Portfolio img/Header Video Image.PNG");
+    background-repeat: no-repeat;
+}

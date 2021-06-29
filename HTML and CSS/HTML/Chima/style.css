@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(173, 166, 166);
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    color: rgb(63, 14, 2);
+}
+.family {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.chima {
+    background-color: teal;
+    
+}
+p {
+    font-size: 17px;
+    color: rgb(243, 239, 7);
+    text-align: center;
+}
+.chima img{
+    width: 80%;
+    border-radius: 50%;
+    margin-left: 35px;
+}
+.popa {
+    background-color: rgb(153, 38, 18);
+}
+.popa img{
+    width: 80%;
+    border-radius: 50%;
+    margin-left: 35px;
+}
+.uchechi {
+    background-color: rgb(49, 71, 5);
+    
+}
+.uchechi img{
+    width: 80%;
+    border-radius: 50%;
+    margin-left: 35px;
+}
