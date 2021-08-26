@@ -1,0 +1,379 @@
+
+.homepage {
+  background-color: black;
+}
+
+.welcome {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  padding-left: 200px;
+}
+.left {
+  width: 35%;
+  
+  padding-left: 30px;
+  margin-top: 100px;
+}
+.butt {
+font-size: 50px;
+text-align: center;
+color: white;
+}
+.welcome-text {
+  color: #00B802;
+  ;
+}
+.right {
+  width: 35%;
+  margin-top: 40px;
+  padding-left: 50px;
+}
+.card {
+  width: 60%;
+  background-image: url("../src/images/Rectangle\ 5.svg");
+  background-repeat: no-repeat;
+  height: 300px;
+  border-radius: 10px;
+  z-index: -1;
+  margin-top: 50px;
+}
+.btn Button{
+  color: white;
+  background-color: rgb(63, 61, 61);
+}
+.overlay {
+  width: 40%;
+  position: relative;
+  bottom: 350px;
+  left: 200px;
+  /* float: right; */
+}
+.overlay img{
+  width: 70%;
+}
+.overlay-2 {
+  width: 30%;
+  position: relative;
+  bottom: 330px;
+  text-align: center;
+  border-radius: 10px;
+  left: 220px;
+  background-color: white;
+}
+.lines {
+  display: flex;
+  position: relative;
+  bottom: 240px;
+  padding-left: 15px;
+ 
+}
+.first, .second {
+  width: 25%;
+}
+
+.aside {
+  position: sticky;
+  bottom: 100px;
+  width: 10%;
+  /* right: 750px; */
+  display: flex;
+  transform: rotate(270deg);
+  
+}
+.aside p{
+  padding: 50px;
+  color: white;
+  font-size: 16px;
+  /* position: absolute; */
+}
+.about {
+  width: 100%;
+  background-color: white;
+}
+.texts {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 100px;
+}
+.value {
+  font-size: 30px;
+}
+.butn button{
+  background-color: #def8de;
+  color: #00B802;
+  width: 10%;
+  height: 23px;
+  border-radius: 30px;
+}
+.learn-more Button{
+  background-color: #00B802;
+  color: white;
+  width: 20%;
+}
+.projects {
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding-top: 50px;
+}
+.our-project {
+  padding-bottom: 70px;
+  
+}
+#name {
+  color: #00B802;
+}
+#head {
+  font-size: 55px;
+  margin-left: 80px;
+}
+.slides {
+  width: 75%;
+  margin: 0 auto;
+}
+.description {
+  width: 25%;
+  /* text-align: left; */
+  margin-top: 50px;
+  padding-bottom: 65px;
+}
+.sliders {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.slider-a {
+  width: 60%;
+  background-color: #00B802;
+  text-align: center;
+  /* height: 400px; */
+}
+.slider-b {
+  background-color:#FB8500;
+  text-align: center;
+width: 60%;
+}
+.slider-c {
+  background-color: #0E4DA4;
+  width: 60%;
+  text-align: center;
+}
+.slider-d {
+  background-color: #EEEEEE;
+  width: 60%;
+  text-align: center;
+}
+.slider-e {
+  background-color: #FAE1DD;
+  width: 60%;
+  text-align: center;
+}
+.sliderimg {
+  width:80%;
+  /* height: 500%px; */
+  object-fit: contain;
+}
+.design {
+  width: 100%;
+  background-color: #FAE1DD;
+}
+.design-strategy {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 85px;
+  padding-bottom: 80px;
+}
+.list-items ul{
+  list-style: none;
+}
+.list-items {
+  /* width: 30%; */
+}
+.list-items p{
+  width: 45%;
+  padding-left: 75px;
+  text-align: left;
+}
+.lists {
+  padding-top:25px;
+  font-size: 32px;
+}
+.black-icon {
+  width: 50%;
+  padding-top: 30px;
+}
+.black-icon img{
+  width: 70%;
+}
+.bttn Button{
+  width: 25%;
+  background: linear-gradient(#DE3B21 100%, #FB8500 100%);
+  margin-left: 50px;
+  text-align: center;
+  margin-top: 135px;
+}
+.reviews {
+  width: 100%;
+  background-color: white;
+  padding-top: 70px;
+  padding-bottom: 60px;
+}
+.clients {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.center {
+  width: 40%;
+  border-radius: 10px;
+  margin-top: 50px;
+  border: 3px solid #C4C4C4;
+  height: 350px;
+}
+.clems {
+  display: flex;
+  margin-left: 100px;
+  /* width: 100%; */
+}
+#hilary {
+  padding-left: 10px;
+}
+#date {
+  padding-left: 250px;
+}
+#header {
+  text-align: center;
+  font-weight: 400;
+  font-size: 36px;
+}
+.faces, .reviewers {
+  display: block;
+}
+#heading-image {
+  padding-bottom: 100px;
+  padding-left: 15px;
+}
+#heading-img {
+  padding-bottom: 100px;
+  padding-left: 20px;
+}
+#heading {
+  bottom: 100px;
+  /* top: 50px; */
+  position: relative;
+  left: 150px;
+}
+#heading-image img{
+  padding-bottom: 100px;
+  padding-left: 10px; 
+}
+#top-icon {
+  padding-bottom: 100px;
+  padding-right: 20px;
+}
+#top-icon img{
+  padding-bottom: 70px;
+  /* padding-right: 20px; */
+}
+#middle-icon {
+  bottom: 60px;
+  position: relative;
+  right: 230px;
+}
+#bottom-icon {
+  padding-bottom: 40px;
+  padding-right: 40px;
+}
+#bottom-icon img{
+  padding-bottom: 150px;
+  padding-right: 100px; 
+}
+
+.values {
+  width: 100%;
+  background-color: #F2FDFB;
+  margin-bottom: 0px;
+}
+.project-icon img{
+  width: 100%;
+}
+.solution {
+  background-color: black;
+  color: white;
+  width: 45%;
+  padding-top: 40px;
+  padding-bottom: 80px;
+  text-align: center;
+  margin: 0 auto;
+  position: relative;
+  bottom: 200px;
+}
+#builds {
+  font-family: normal;
+  font-size: 47px;
+  font-weight: 100;
+}
+#solution-text {
+  font-size: 16px;
+  font-weight: 400;
+}
+#project-btn {
+  font-size: 13px;
+  text-align: center;
+}
+.projects-and-services {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  bottom: 100px;
+}
+.right-div {
+  background-image: url('../src/images/Rectangle\ 18.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  width: 48%;
+  color: white;
+  padding-bottom: 70px;
+  padding-top: 70px;
+}
+.left-div {
+  width: 48%;
+  padding-bottom: 70px;
+  margin-right: 3px;
+  padding-top: 70px;
+  background-color: black;
+  color: white;
+}
+#desc {
+  width: 30%;
+  /* text-align: center; */
+  padding-left: 150px;
+}
+#view {
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-size: 14px;
+  padding-left: 150px;
+  padding-top: 20px;
+}
+#view-btn {
+    color: rgb(2, 2, 2);
+    padding-left: 150px;
+    background-color: transparent;
+    font-size: 14px;
+    color: white;
+    border: none;
+    padding-top: 20px;
+}
+
+#arrows {
+  font-size: 25px;
+  padding-left: 15px;
+}
